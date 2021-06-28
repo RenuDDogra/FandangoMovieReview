@@ -1,0 +1,2 @@
+# FandangoMovieReview
+My Goal is determine how can we determine if Fandango’s website rating in 2015 had a bias approach towards rating to sell more tickets by comparing the rating of same movies on other websites! With the help of data analysis in python based off the 538 article and data provided in data.world,github.we will see if we reach a similar conclusion. We will also try to find hows the ratingValues of movies differ in 2016.
